@@ -1,6 +1,7 @@
-# Kaggle_Stable-Diffusion-Image-to-Prompts
+# Kaggle Stable Diffusion Image to Prompts
 
 <br>
+<img width="1075" alt="スクリーンショット 2023-09-25 21 42 42" src="https://github.com/minaR0404/Kaggle_Stable-Diffusion-Image-to-Prompts/assets/49789283/2db9e731-1666-4a50-bccb-36ae7339a334">
 
 https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts
 
@@ -8,7 +9,7 @@ https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts
 
 I would like to thank the organizers and participants of this contest.
 
-43rd place (of 1200 teams) in this competition, I won a medal for the first time.
+43rd place (of 1200+ teams) in this competition, I won a medal for the first time.
 
 I would like to record my efforts for two month.
 
@@ -34,7 +35,7 @@ I used two types of models.
 
 **Vision Transformer Model :** CLIP-ViT
 
-I created about 50 models in total, and an ensemble of 8 models achieved the best score.
+I created about 50+ models in total, and an ensemble of 8 models achieved the best score.
 
 <br>
 

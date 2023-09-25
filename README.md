@@ -1,6 +1,10 @@
 # Kaggle_Stable-Diffusion-Image-to-Prompts
 
+<br>
+
 https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts
+
+<br>
 
 I would like to thank the organizers and participants of this contest.
 
@@ -19,7 +23,7 @@ We generate the sentences based on image from Stable Diffusion.
 
 Compete on the accuracy of the cosine similarity between the generated sentence and the correct sentence.
 
-![astroman](https://github.com/minaR0404/Kaggle_Stable-Diffusion-Image-to-Prompts/assets/49789283/b822c9a8-0799-4a65-ad8c-285cb071a40b)
+![phonto](https://github.com/minaR0404/Kaggle_Stable-Diffusion-Image-to-Prompts/assets/49789283/85c6e1f9-5053-4534-9947-d5c8b56cdaa7)
 
 <br>
 
